@@ -7,3 +7,4 @@ with open('26.txt') as f:
             mini = ls[i]
             c+=1
 print(c,mini)
+bdfghghghghf
